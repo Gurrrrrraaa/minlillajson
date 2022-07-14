@@ -97,5 +97,18 @@
 
             "recept": ["Rör matfett, socker och vaniljsocker poröst.", "Balnda i kakao", "Tillsätt havregryn och kaffe, rör om tills allt är väl blandat", "Forma smeten till små runda bollar.", "Rulla dem i pärlsocker eller kokosflingor. Förvara chokladbollarna i kylskåp tills de ska ätas."]
         }
+    },
+    {
+        "recipe": {
+            "label": "Julgranskakor",
+            "image": "https://brinkenbakar.se/wp-content/uploads/2018/12/Julkakor-granar.jpg",
+            "underrubrik1": "",
+            "underrubrik1Text": ["180 g vetemjöl (3 dl)", "30 g florsocker (0,5 dl)", "2 tsk vaniljsocker", "125 gram kallt smör"],
+            
+            "underrubrik2": "Kristyr",
+            "underrubrik2Text": ["1 äggvita", "120 g florsocker (2 dl)", "Strössel", "Grön pastafärg/karamellfärg"],
+            
+            "recept": ["Lägg alla ingredienser i en matberedare och mixa tills det går ihop till en deg. Eller nyp ihop den för hand. Överarbeta inte.", "Plasta in degen och låt den vila i kylen i ca 1 timme.", " Kavla degen, ca 3-4 mm och ta ut granar med en pepparkaksform.", "Baka på 175 grader i ca 8-10 minuter.", "Vispa äggvita och florsocker poröst, gärna med en elvisp.", "Droppa ut ett par droppar grön färg och gör lite snurror med tandpetare. Doppa kakorna och låt kristyren stelna. Eller spritsa dem med kristyr och strö strössel på dem."]
+        }
     }
 ]
